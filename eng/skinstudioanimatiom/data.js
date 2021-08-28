@@ -37,8 +37,14 @@ class SharedData {
             },
 			
             {
-            	"name": "lib",
+            	"name": "lid",
             	"parent": "head",
+            	"pivot": [0, 24, 0]
+            },
+			
+			{
+            	"name": " base",
+            	"parent": "root",
             	"pivot": [0, 24, 0]
             },
 
